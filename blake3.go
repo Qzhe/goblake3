@@ -1,4 +1,4 @@
-package goblake3
+package github.com/Qzhe/goblake3
 /*
 #cgo CFLAGS: -I${SRCDIR}
 #cgo LDFLAGS: -L${SRCDIR} -lblake3
