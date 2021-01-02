@@ -1,4 +1,4 @@
-package github.com/Qzhe/goblake3
+package goblake3
 
 import (
 	"encoding/base64"
