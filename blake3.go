@@ -1,3 +1,5 @@
+// +build darwin
+
 package goblake3
 /*
 #cgo CFLAGS: -I${SRCDIR}
